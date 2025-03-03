@@ -130,3 +130,6 @@ To set up the project locally, follow these steps:
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
 
 Thank you for considering **Trivia Titans** for your multiplayer trivia gaming needs! If you have questions or feedback, don't hesitate to reach out. Enjoy the challenge and have fun competing against others in the ultimate trivia showdown!
+
+## Note
+Note: This project was initially hosted on the GitLab server provided by Dalhousie University, but I later transferred it here.
